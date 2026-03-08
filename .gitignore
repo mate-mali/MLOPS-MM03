@@ -1,0 +1,4 @@
+# i dont want to load these sizy big bois
+*.parquet
+data/*.csv
+data/*.parquet
